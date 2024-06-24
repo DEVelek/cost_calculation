@@ -4,7 +4,7 @@ Python script for calculating product costs with various allocation bases.
 
 ## Usage
 
-Run the script and follow the prompts to enter the required data and allocation bases.
+Run the script and follow the prompts to change datas in the soure code and enter required allocation bases.
 
 ## License
 
